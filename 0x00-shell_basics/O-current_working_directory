@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo -en "Current directory is 'pwd'\n"

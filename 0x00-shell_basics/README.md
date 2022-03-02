@@ -1,0 +1,1 @@
+All content in the files inside this folder contains shell scripts
