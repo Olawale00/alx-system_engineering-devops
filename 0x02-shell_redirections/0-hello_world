@@ -1,2 +1,2 @@
 #!/bin/bash
-ls > hello_world.txt
+echo hello, world
